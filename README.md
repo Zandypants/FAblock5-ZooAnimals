@@ -1,0 +1,2 @@
+# Submission for Fullstack Academy Block 5 Workshop: The Zoo Problem
+HTML file creating a web page which outlines a "Zoo", sectioned by different animal types and containing general information as well as the names of the animals in the Zoo.
